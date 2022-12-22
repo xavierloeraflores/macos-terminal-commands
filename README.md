@@ -16,4 +16,6 @@ Change dock animation speed:
 `defaults write com.apple.dock autohide-time-modifier -float 0.25;
 killall Dock`
 
+Vim for VSCode repeating key:
 
+`defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false`
