@@ -19,3 +19,7 @@ killall Dock`
 Vim for VSCode repeating key:
 
 `defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false`
+
+Install Xcode Packages:
+
+`xcode-select --install`
