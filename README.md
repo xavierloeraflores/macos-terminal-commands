@@ -37,3 +37,9 @@ Pomodoro CLI @ [bashbunni](https://gist.github.com/bashbunni/f6b04fc4703903a71ce
         -appIcon '~/Pictures/pumpkin.png'\
         -sound Crystal" `
 
+Starship @[Starship]()
+
+1. Install binaries: 
+        With Homebrew `brew install starship`
+2. Add the following to the end of the file `~/.zshrc`:
+        `eval "$(starship init zsh)"`
