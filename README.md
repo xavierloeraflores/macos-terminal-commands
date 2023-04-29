@@ -7,7 +7,7 @@ Make the dock appear and hide instantly:
 
 `defaults write com.apple.Dock autohide-delay -float 0.0001; killall Dock`
 
-Under this action:
+Undo this action:
 
 `defaults delete com.apple.Dock autohide-delay; killall Dock`
 
