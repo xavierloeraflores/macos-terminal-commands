@@ -37,9 +37,13 @@ Pomodoro CLI @ [bashbunni](https://gist.github.com/bashbunni/f6b04fc4703903a71ce
         -appIcon '~/Pictures/pumpkin.png'\
         -sound Crystal" `
 
-Starship @[Starship]()
+Starship @[Starship](https://starship.rs)
 
 1. Install binaries: 
         With Homebrew `brew install starship`
 2. Add the following to the end of the file `~/.zshrc`:
         `eval "$(starship init zsh)"`
+
+   MonitorControl @[MonitorControl](https://github.com/MonitorControl/MonitorControl)
+1. Install Application:
+        With Homebrew: `brew install MonitorControl`         
