@@ -47,3 +47,7 @@ Starship @[Starship](https://starship.rs)
    MonitorControl @[MonitorControl](https://github.com/MonitorControl/MonitorControl)
 1. Install Application:
         With Homebrew: `brew install MonitorControl`         
+
+[AltTab](https://alt-tab-macos.netlify.app_
+With Homebrew: `brew install --cask alt-tab`
+
